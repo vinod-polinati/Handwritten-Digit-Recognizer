@@ -53,4 +53,5 @@ Verify installation :
     
    Contributors are welcomed always 🫶
    
-   Make sure to star the repository
+
+###  Star the repository ⭐️ 
